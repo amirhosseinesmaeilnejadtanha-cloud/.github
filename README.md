@@ -1,1 +1,0 @@
-# https://github.com/amirhosseinesmaeilnejadtanha-cloud/vpn-/blob/main/.github/workflows/blank.yml
